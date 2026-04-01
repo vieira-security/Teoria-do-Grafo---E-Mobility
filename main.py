@@ -1,3 +1,7 @@
+#Gabriel Vieira de Sousa 10410264
+#Ian Merlini Kaltbeitzer - 10402831
+
+
 import os
 
 class Grafo:
